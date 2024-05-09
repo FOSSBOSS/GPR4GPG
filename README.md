@@ -1,2 +1,2 @@
 # GPR4GPG
-Ground Penatrating Radio for Greater Public Good
+Ground Penatrating Radar for Greater Public Good
